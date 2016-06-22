@@ -1,0 +1,20 @@
+
+Dominos
+Rob Shaw rob@protolife.com
+Norman Packard n@protolife.com
+circa 2008-2016
+
+Montecarlo random walk of dominos on a lattice, with hard core exclusion.
+Constraints on rotation are variable (see keys 5,6,7 in the interactive simulation).
+
+"Leaky Membrane Dynamics" Robert S. Shaw and Norman H. Packard, Phys. Rev. Lett. 105, 098102 – Published 26 August 2010
+
+tested on Mac OS X 10.8-10.11
+
+Set resolution in domgrav.h to vary size of dominos on the screen.
+
+With focus in graphics window, "h" will print interactive keys in launch window.
+
+Please reference and inform authors if used in research.
+
+
